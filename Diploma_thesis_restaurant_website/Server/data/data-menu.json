@@ -1,0 +1,95 @@
+[
+  {
+    "id": 1,
+    "title": "Закуски", 
+    "subtitle": "Это раздел вашего меню. Дайте краткое описание вашего раздела",
+    "imageSmall": "",
+    "imageBig": "/src/assets/menuView/starters-big-image.jpg",
+    "backgroundImage": "/src/assets/menuView/background-image-starters.svg",
+    "dishes": [
+      {
+        "id": 101,
+        "name": "Жареная бамия и помидоры",
+        "description": "Клиент очень важен, за клиентом пойдет клиент.",
+        "price": 1840,
+        "thumbnail": ""
+      },
+      {
+        "id": 102,
+        "name": "Огуречный салат",
+        "description": "Клиент очень важен, за клиентом пойдет клиент.",
+        "price": 1656,
+        "thumbnail": ""
+      },
+      {
+        "id": 103,
+        "name": "Базиликовые блины",
+        "description": "Клиент очень важен, за клиентом пойдет клиент.",
+        "price": 1104,
+        "thumbnail": ""
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Горячие блюда",
+    "subtitle": "Это раздел вашего меню. Дайте краткое описание вашего раздела",
+    "imageSmall": "",
+    "imageBig": "/src/assets/menuView/mains-big-image.jpg",
+    "backgroundImage": "",
+    "dishes": [
+      {
+        "id": 201,
+        "name": "Филе глубоководной белоснежной трески",
+        "description": "Клиент очень важен, за клиентом пойдет клиент.",
+        "price": 1840,
+        "thumbnail": ""
+      },
+      {
+        "id": 202,
+        "name": "Стейк с розмариновым маслом",
+        "description": "Клиент очень важен, за клиентом пойдет клиент.",
+        "price": 2024,
+        "thumbnail": ""
+      },
+      {
+        "id": 203,
+        "name": "Стейки с жареным кимчи",
+        "description": "Клиент очень важен, за клиентом пойдет клиент.",
+        "price": 1804,
+        "thumbnail": ""
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Выпечка и напитки",
+    "subtitle": "Это раздел вашего меню. Дайте краткое описание вашего раздела",
+    "imageSmall": "",
+    "imageBig": "/src/assets/menuView/pastries-&-drinks-big-image.jpg",
+    "backgroundImage": "/src/assets/menuView/background-image-drinks.svg",
+    "dishes": [
+      {
+        "id": 301,
+        "name": "Сочетание с вином",
+        "description": "Клиент очень важен, за клиентом пойдет клиент.",
+        "price": 4536,
+        "thumbnail": ""
+      },
+      {
+        "id": 302,
+        "name": "Сочетание с натуральным вином",
+        "description": "Клиент очень важен, за клиентом пойдет клиент.",
+        "price": 6536,
+        "thumbnail": ""
+      },
+      {
+        "id": 103,
+        "name": "Виски Флаер",
+        "description": "Клиент очень важен, за клиентом пойдет клиент.",
+        "price": 8280,
+        "thumbnail": ""
+      }
+    ]
+  }
+]

@@ -1,0 +1,15 @@
+[
+  "test1@hh.ru",
+  {
+    "email": "test2@mail.com",
+    "date": "2024-10-11T09:41:45.728Z"
+  },
+  {
+    "email": "test3@mail.ru",
+    "date": "2024-10-14T08:34:17.686Z"
+  },
+  {
+    "email": "test4@mail.ru",
+    "date": "2024-10-14T09:20:28.418Z"
+  }
+]
